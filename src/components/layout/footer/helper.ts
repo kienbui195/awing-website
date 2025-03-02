@@ -12,19 +12,19 @@ export const NAV_MENU: INavItem[] = [
     children: [
       {
         label: "Home",
-        href: "/",
+        href: "#",
       },
       {
         label: "About us",
-        href: "/about-us",
+        href: "#",
       },
       {
         label: "Blog",
-        href: "/blogs",
+        href: "#",
       },
       {
         label: "Careers",
-        href: "/careers",
+        href: "#",
       },
     ],
   },
@@ -33,19 +33,19 @@ export const NAV_MENU: INavItem[] = [
     children: [
       {
         label: "Our Platform",
-        href: "/our-platform",
+        href: "#",
       },
       {
         label: "Our Advertisers",
-        href: "/our-advertisers",
+        href: "#",
       },
       {
         label: "Our Wifi Partners",
-        href: "/our-wifi-partners",
+        href: "#-partners",
       },
       {
         label: "Wifi Users",
-        href: "/wifi-users",
+        href: "#",
       },
     ],
   },
@@ -54,11 +54,11 @@ export const NAV_MENU: INavItem[] = [
     children: [
       {
         label: "Terms & Conditions",
-        href: "/terms-and-conditions",
+        href: "#",
       },
       {
         label: "Privacy Policy",
-        href: "/privacy-policy",
+        href: "#",
       },
     ],
   },
