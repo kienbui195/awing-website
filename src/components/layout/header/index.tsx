@@ -16,7 +16,7 @@ const Header = () => {
   return (
     <header
       className={cn([
-        "fixed top-0 left-0 right-0 z-50 3xl:px-[100px] md:px-[70px] p-4 md:py-3 3xl:max-w-[1720px] max-w-full",
+        "fixed top-0 left-0 right-0 z-50 3xl:px-[100px] md:px-[70px] p-4 md:py-3",
         isAtTop ? "bg-transparent text-neutral0" : "bg-neutral0 shadow-md text-neutral700",
       ])}
     >
